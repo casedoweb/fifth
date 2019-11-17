@@ -1,0 +1,4 @@
+collective: BadFormatters
+  
+  
+      tiers: THIS iS Not a Valid YAML!
